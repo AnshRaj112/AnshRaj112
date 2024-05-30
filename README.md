@@ -1,5 +1,4 @@
-```markdown
-# README - Ansh Raj
+# Ansh Raj
 
 ## Introduction
 Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my studies at KIIT. I am a full stack web developer with a keen interest in learning and implementing new technologies. In addition to web development, I am also a prompt engineer, writer, and musician.
@@ -8,12 +7,12 @@ Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my s
 
 ### Full Stack Web Development
 As a full stack web developer, I have experience working with both front-end and back-end technologies. My skill set includes:
-- **Front-end**: HTML, CSS, JavaScript, React.js, Next.js
+- **Front-end**: HTML, CSS, JavaScript, React.js, Angular
 - **Back-end**: Node.js, Express.js
 - **Databases**: MongoDB, SQL
 
 ### Python Programming
-I am currently expanding my knowledge in Python, exploring its applications in web development, data science, machine learning and artificial intelligence. Python is a versatile language that complements my existing skills and opens up new possibilities for development.
+I am currently expanding my knowledge in Python, exploring its applications in web development, data science, and automation. Python is a versatile language that complements my existing skills and opens up new possibilities for development.
 
 ### Prompt Engineering
 In my role as a prompt engineer, I work on designing, testing, and optimizing prompts for various applications. This involves:
@@ -24,15 +23,15 @@ In my role as a prompt engineer, I work on designing, testing, and optimizing pr
 ### Current Projects
 
 #### Kuddle
-I am actively working on Kuddle, a project aimed at creating a user-friendly and interactive dating platform. My responsibilities include:
-- Developing and maintaining the front-end and back-end
+I am actively working on Kuddle, a project aimed at creating a user-friendly and interactive platform. My responsibilities include:
+- Developing and maintaining the front-end
 - Collaborating with the team to integrate new features
 - Ensuring the platform's scalability and performance
 
 #### Fed-Frontend
 I am also contributing to the Fed-Frontend project, which focuses on enhancing the front-end experience for users. My contributions include:
-- Implementing sidebar design principles
-- Making Social Media page that embeds instagram and linkedin
+- Implementing responsive design principles
+- Optimizing the user interface for better usability
 - Collaborating with other developers to deliver high-quality code
 
 ## Additional Skills and Interests
@@ -50,9 +49,11 @@ Feel free to reach out to me for collaboration, questions, or just to connect!
 - **LinkedIn**: https://www.linkedin.com/in/ansh-raj112/
 - **GitHub**: https://github.com/AnshRaj112
 
+Thank you for taking the time to read my profile! Let's create something amazing together.
+
+
 [![An image of @anshraj112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshraj112)](https://holopin.io/@anshraj112)
 
 [![AnshRaj112's GitHub | Stats](https://stats.quine.sh/AnshRaj112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
 
 Thank you for taking the time to read my profile! Let's create something amazing together.
-```
