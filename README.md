@@ -34,6 +34,12 @@ I am also contributing to the Fed-Frontend project, which focuses on enhancing t
 - Optimizing the user interface for better usability
 - Collaborating with other developers to deliver high-quality code
 
+#### KiitBites
+I am excited about an upcoming project named KiitBites, which aims to provide a convenient food ordering platform similar to Zomato and Swiggy. This project is specifically designed for students of KIIT and anyone near their premises to order from their food courts. The technologies used in this project include:
+- **Front-end**: TypeScript, Next.js, Module.scss
+- **Back-end**: Node.js with Express and Prisma
+- **Database**: PostgreSQL
+
 ## Additional Skills and Interests
 
 ### Writing
@@ -46,16 +52,13 @@ Music is another passion of mine. I enjoy playing various instruments and compos
 Feel free to reach out to me for collaboration, questions, or just to connect!
 
 - **Email**: anshraj112@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/ansh-raj112/
-- **GitHub**: https://github.com/AnshRaj112
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ansh-raj112/)
+- **GitHub**: [GitHub Profile](https://github.com/AnshRaj112)
 
 Thank you for taking the time to read my profile! Let's create something amazing together.
-
 
 [![An image of @anshraj112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshraj112)](https://holopin.io/@anshraj112)
 
 [![AnshRaj112's GitHub | Stats](https://stats.quine.sh/AnshRaj112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
 
 [![AnshRaj112's Stack Overflow | Stats](https://stats.quine.sh/AnshRaj112/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
-
-Thank you for taking the time to read my profile! Let's create something amazing together.
