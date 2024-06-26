@@ -7,7 +7,7 @@ Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my s
 
 ### Full Stack Web Development
 As a full stack web developer, I have experience working with both front-end and back-end technologies. My skill set includes:
-- **Front-end**: HTML, CSS, JavaScript, React.js, Angular
+- **Front-end**: HTML, CSS, JavaScript, React.js, Next.js
 - **Back-end**: Node.js, Express.js
 - **Databases**: MongoDB, SQL
 
