@@ -1,15 +1,15 @@
 # Ansh Raj
 
 ## Introduction
-Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my studies at KIIT. I am a full stack web developer with a keen interest in learning and implementing new technologies. In addition to web development, I am also a prompt engineer, writer, and musician.
+Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my studies at KIIT. I am a full-stack web developer with a keen interest in learning and implementing new technologies. In addition to web development, I am also a prompt engineer, writer, and musician.
 
 ## Current Endeavors
 
 ### Full Stack Web Development
 As a full stack web developer, I have experience working with both front-end and back-end technologies. My skill set includes:
-- *Front-end*: HTML, CSS, JavaScript, React.js, Next.js
-- *Back-end*: Node.js, Express.js
-- *Databases*: MongoDB, SQL
+- **Front-end**: HTML, CSS, JavaScript, React.js, Next.js
+- **Back-end**: Node.js, Express.js
+- **Databases**: MongoDB, SQL
 
 ### Python Programming
 I am currently expanding my knowledge in Python, exploring its applications in web development, data science, and automation. Python is a versatile language that complements my existing skills and opens up new possibilities for development.
@@ -22,23 +22,28 @@ In my role as a prompt engineer, I work on designing, testing, and optimizing pr
 
 ### Current Projects
 
-#### Kuddle
+#### Kuddle (Ongoing)
 I am actively working on Kuddle, a project aimed at creating a user-friendly and interactive platform. My responsibilities include:
 - Developing and maintaining the front-end
 - Collaborating with the team to integrate new features
 - Ensuring the platform's scalability and performance
 
-#### Fed-Frontend
-I am also contributing to the Fed-Frontend project, which focuses on enhancing the front-end experience for users. My contributions include:
+#### Fed-Frontend (Completed)
+I have successfully completed my work on the Fed-Frontend project, which focused on enhancing the front-end experience for users. My contributions included:
 - Implementing responsive design principles
 - Optimizing the user interface for better usability
 - Collaborating with other developers to deliver high-quality code
 
-#### KIITBites
-I am excited about an upcoming project named KiitBites, which aims to provide a convenient food ordering platform similar to Zomato and Swiggy. This project is specifically designed for students of KIIT and anyone near their premises to order from their food courts. The technologies used in this project include:
-- *Front-end*: TypeScript, Next.js, Module.scss
-- *Back-end*: Node.js with Express and Prisma
-- *Database*: PostgreSQL
+#### Fed-Backend (Completed)
+Alongside Fed-Frontend, I also contributed to Fed-Backend, where I was involved in:
+- Implementing custom error handling for improved reliability
+- Assisting in sorting and managing data to enhance backend performance
+
+#### KIITBites (Ongoing)
+I am excited about an upcoming project named KIITBites, which aims to provide a convenient food ordering platform similar to Zomato and Swiggy. This project is specifically designed for students of KIIT and anyone near their premises to order from their food courts. The technologies used in this project include:
+- **Front-end**: TypeScript, Next.js, Module.scss
+- **Back-end**: Node.js with Express and Prisma
+- **Database**: PostgreSQL
 
 ## Additional Skills and Interests
 
@@ -51,9 +56,9 @@ Music is another passion of mine. I enjoy playing various instruments and compos
 ## Contact Information
 Feel free to reach out to me for collaboration, questions, or just to connect!
 
-- *Email*: anshraj112@gmail.com
-- *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/ansh-raj112/)
-- *GitHub*: [GitHub Profile](https://github.com/AnshRaj112)
+- **Email**: anshraj112@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ansh-raj112/)
+- **GitHub**: [GitHub Profile](https://github.com/AnshRaj112)
 
 Thank you for taking the time to read my profile! Let's create something amazing together.
 
