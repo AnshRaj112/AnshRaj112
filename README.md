@@ -67,3 +67,5 @@ Thank you for taking the time to read my profile! Let's create something amazing
 [![AnshRaj112's GitHub | Stats](https://stats.quine.sh/AnshRaj112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
 
 [![AnshRaj112's Stack Overflow | Stats](https://stats.quine.sh/AnshRaj112/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
+
+[![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112)](https://github.com/AnshRaj112/github-readme-stats)
