@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83bb99ad-f970-454a-9274-055f21b65704)# Ansh Raj
+# Ansh Raj
 
 ## Introduction
 Hello! I am Ansh Raj, a passionate and driven individual currently pursuing my studies at KIIT. I am a full-stack web developer with a keen interest in learning and implementing new technologies. In addition to web development, I am also a prompt engineer, writer, and musician.
