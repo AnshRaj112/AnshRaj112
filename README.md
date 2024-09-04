@@ -64,6 +64,6 @@ Thank you for taking the time to read my profile! Let's create something amazing
 
 [![An image of @anshraj112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshraj112)](https://holopin.io/@anshraj112)
 
-[![AnshRaj112's GitHub | Stats](https://stats.quine.sh/AnshRaj112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)      [![AnshRaj112's Stack Overflow | Stats](https://stats.quine.sh/AnshRaj112/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
+[![AnshRaj112's GitHub | Stats](https://stats.quine.sh/AnshRaj112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)    &emsp;&emsp;&emsp;&emsp;  [![AnshRaj112's Stack Overflow | Stats](https://stats.quine.sh/AnshRaj112/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRaj112)
 
-[![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112)](https://github.com/AnshRaj112/github-readme-stats)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact)
+[![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112)](https://github.com/AnshRaj112/github-readme-stats)     &emsp;&emsp;&emsp;&emsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact)
