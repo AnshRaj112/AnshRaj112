@@ -72,6 +72,6 @@ Thank you for taking the time to read my profile! Let's create something amazing
 
 [![AnshRaj112's GitHub | Topics Over Time](https://stats.quira.sh/AnshRaj112/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AnshRaj112)
 
-[![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112)](https://github.com/AnshRaj112/github-readme-stats)     
+[![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112&theme=radical)](https://github.com/AnshRaj112/github-readme-stats)     
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical)
