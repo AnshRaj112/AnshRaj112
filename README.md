@@ -76,4 +76,6 @@ Thank you for taking the time to read my profile! Let's create something amazing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=AnshRaj112)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AnshRaj112/count.svg?" />
+</div>
