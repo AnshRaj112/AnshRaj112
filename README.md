@@ -75,3 +75,5 @@ Thank you for taking the time to read my profile! Let's create something amazing
 [![AnshRaj112's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshRaj112&theme=radical)](https://github.com/AnshRaj112/github-readme-stats)     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=AnshRaj112)
