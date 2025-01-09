@@ -76,8 +76,6 @@ Thank you for taking the time to read my profile! Let's create something amazing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical)
 
-[![](https://spotify-recently-played-readme.vercel.app/api?user=2onl2bh1l5xxnrf2xq83d2vlx&count=3&width=375)](https://github.com/JeffreyCA/spotify-recently-played-readme)
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/AnshRaj112/count.svg?" />
 </div>
