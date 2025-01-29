@@ -42,8 +42,8 @@ Alongside Fed-Frontend, I also contributed to Fed-Backend, where I was involved 
 #### KIITBites (Ongoing)
 I am excited about an upcoming project named KIITBites, which aims to provide a convenient food ordering platform similar to Zomato and Swiggy. This project is specifically designed for students of KIIT and anyone near their premises to order from their food courts. The technologies used in this project include:
 - **Front-end**: TypeScript, Next.js, Module.scss
-- **Back-end**: Node.js with Express and Prisma
-- **Database**: PostgreSQL
+- **Back-end**: Node.js with Express
+- **Database**: MongoDB
 
 ## Additional Skills and Interests
 
