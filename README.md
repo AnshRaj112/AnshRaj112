@@ -96,7 +96,7 @@ Music is my creative escape. I play multiple instruments and compose music in my
 ---
 
 ## 📈 Contributions
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshRaj112&theme=github-compact)](https://github.com/anshraj112/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshRaj112&theme=high-contrast)](https://github.com/anshraj112/github-readme-activity-graph)
 
 ---
 
