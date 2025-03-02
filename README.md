@@ -6,53 +6,135 @@ Hello! I am **Ansh Raj**, a passionate and driven individual currently pursuing 
 
 ---
 
-
 ## 📌 Current Endeavors
 
 ### 🎨 Full Stack Web Development
-- **Front-end**: HTML, CSS, JavaScript, React.js, Next.js
+- **Front-end**: TypeScript, Next.js, React.js, SCSS
 - **Back-end**: Node.js, Express.js
-- **Databases**: MongoDB, SQL
+- **Databases**: MongoDB, SQL, Prisma
 
-### 🤖 Python & AI Exploration
-I am currently delving into **Python and Artificial Intelligence**, exploring its applications in **web development, automation, and data science**.
+### 📱 Mobile & Desktop Development
+- **Mobile Framework**: React Native
+- **Desktop Framework**: .NET (WPF, MAUI)
+- **State Management**: Redux Toolkit, MVVM
+- **Real-time Updates**: SignalR, Socket.io
+
+### 🤖 AI & Backend Engineering
+- **Backend Frameworks**: Node.js, Express.js
+- **Real-Time Communication**: WebSockets, Redis
+- **Authentication & Security**: JWT, OAuth, bcrypt.js
 
 ### ☕ Object-Oriented Programming in Java
-Strengthening my problem-solving and software development capabilities by mastering **Java OOP concepts**.
+Strengthening problem-solving and software development skills by mastering **Java OOP concepts**.
 
 ### ✨ Prompt Engineering
-  - Understanding user requirements
-  - Crafting effective prompts
-  - Iteratively refining prompts for better performance
+- Understanding user requirements
+- Crafting effective prompts
+- Iteratively refining prompts for better performance
 
-## Current Projects
 
-### **Kuddle (Ongoing)**
-A user-friendly and interactive platform where I focus on:
-- Developing and maintaining the front-end
-- Collaborating with the team to integrate new features
-- Ensuring scalability and performance
+## 🚀 My Current Projects
 
-### **KIITBites (Ongoing)**
-A **food ordering platform** designed specifically for KIIT students and nearby users. The technologies used include:
-- **Front-end**: TypeScript, Next.js, Module.scss
-- **Back-end**: Node.js with Express
-- **Database**: MongoDB
-- **Application & Desktop App**: Developing native applications for better user experience
+### 🍔 KIITBites Frontend (Ongoing)
+A **web-based food ordering platform** tailored for **KIIT students and nearby users**.
+#### 🔹 Tech Stack:
+- **Frontend:** TypeScript, Next.js, Module.scss
+- **Security:** JWT authentication, SSL encryption
 
-### **Fed-Frontend (Completed)**
-Enhancing the front-end experience for users by:
-- Implementing responsive design principles
-- Optimizing the user interface for better usability
-- Collaborating with developers for high-quality code
+#### 🔹 Features:
+- Online food ordering & **real-time tracking**.
+- Secure **authentication** (Google OAuth, JWT).
+- **Multi-food court integration** with live availability.
+- **Payment integration** (UPI, Cards, Wallets).
+- **Order history & scheduled orders**.
 
-### **Fed-Backend (Completed)**
-Contributing to backend enhancements with:
-- Custom error handling for improved reliability
-- Efficient sorting and data management
+---
+
+### 📱 KIITBites Mobile Application (Ongoing)
+A **mobile-first solution** to enhance the food ordering experience for KIIT students.
+#### 🔹 Tech Stack:
+- **Framework:** React Native
+- **State Management:** Redux Toolkit
+- **Real-Time Updates:** Socket.io
+- **Authentication:** Firebase Auth, JWT
+- **Push Notifications:** Expo Notifications
+
+#### 🔹 Features:
+- Mobile-optimized **food ordering system** with **live order tracking**.
+- Secure login via **Google OAuth & email/password**.
+- **Cart management** (add, remove, modify items before checkout).
+- **Payment integration** (UPI, Cards, Wallets).
+- **Push notifications** for order status & offers.
+
+---
+
+### 🖥️ KIITBites Desktop Application (Ongoing)
+A **dedicated desktop solution** for students and vendors to manage orders efficiently.
+#### 🔹 Tech Stack:
+- **Framework:** .NET (MAUI for cross-platform)
+- **Programming Language:** C#
+- **State Management:** MVVM (Model-View-ViewModel)
+- **Networking:** SignalR for real-time updates
+- **Authentication:** JWT, OAuth
+
+#### 🔹 Features:
+- **Multi-food court integration** with real-time stock updates.
+- **Vendor dashboard** for order and inventory management.
+- **Offline mode** for order placement & later synchronization.
+- **Order tracking & real-time notifications**.
+
+---
+
+### 🔧 KIITBites Backend (Ongoing)
+The **core backend system** that powers the food ordering and inventory management platform.
+####🔹 Tech Stack:
+- **Backend Framework:** Node.js with Express.js
+- **Database:** MongoDB (Mongoose ODM)
+- **Authentication:** JWT (JSON Web Token)
+- **Real-Time Communication:** Socket.io
+- **Caching:** Redis for session management
+- **Security:** Helmet, CORS, bcrypt.js
+
+#### 🔹 Features:
+- **User authentication & role-based access control**.
+- **Order management system** (place, update, cancel orders).
+- **Inventory tracking** with low-stock alerts.
+- **Secure payment processing** with multiple payment options.
+- **Real-time order status updates & notifications**.
+
+---
+
+### 🖥️ Fed-Frontend (Completed)
+The **official website of FED (Federation of Entrepreneurship Development)**, designed to promote events, showcase team members, and provide resources for aspiring entrepreneurs.
+#### 🔹 Tech Stack:
+- **Frontend:** ReactJS with Vite
+- **Styling:** SCSS
+- **Authentication:** Google OAuth
+
+#### 🔹 Features:
+- **Event management system** (browse, register, and manage events).
+- **User authentication & profile management**.
+- **Admin panel** for managing users, events, and insights.
+
+---
+
+### ⚡ Fed-Backend (Completed)
+A powerful **backend system** supporting FED’s website, built for reliability and efficiency.
+#### 🔹 Tech Stack:
+- **Backend Framework:** Node.js with Express
+- **Database:** MongoDB with Prisma
+- **Authentication:** JWT (JSON Web Token)
+- **Security:** Custom error handling, CORS, Helmet
+
+#### 🔹 Features:
+- **User authentication & role-based access control**.
+- **Event management API** (creation, updates, registrations).
+- **Optimized sorting & data management**.
+
+---
 
 ## 🎓 Education
-I am currently a **sophomore at KIIT**, actively expanding my expertise in **AI, Python, Java, and Web Development** while working on innovative projects.
+I am currently a **sophomore at KIIT**, actively expanding my expertise in **AI, Python, Java, Web Development, Application Development and Desktop Application Development** while working on innovative projects.
 
 ---
 
