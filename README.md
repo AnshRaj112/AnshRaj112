@@ -171,8 +171,7 @@ Music is my creative escape. I play multiple instruments and compose music in my
 
 ## 📌 GitHub Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical" height="200px"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshRaj112&theme=radical" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&layout=compact&theme=radical" height="200px"/>
 </div>
 
 ---
