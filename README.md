@@ -32,5 +32,5 @@
 ---
 
 
-Thank you for taking the time to read my profile! I am always excited to learn, collaborate, and build something amazing. 🚀
+Thank you for taking the time to read my profile! I am always excited to learn, collaborate, and build something amazing.
 
