@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Ansh Raj<br><br>Founder & CEO — Exsolvia | Startup Enthusiast<br><br>I am the founder and CEO of Exsolvia, a company driven by the mission to identify and resolve the overlooked, unnoticed issues that others ignore—ensuring every detail gets the attention it deserves.<br><br>Our flagship product is KAMPYN, a one-click solution for all campus-related issues. Think of it as a hospitality service designed specifically for colleges, not hotels—built to make campus life smoother, simpler, and more connected.<br><br>Work & Interests<br><br>Founder & CEO at Exsolvia — leading product development and innovation<br><br>KAMPYN — redefining campus hospitality and services for colleges<br><br>Full-Stack Development — React, TypeScript, Node.js, Dart, Flutter, MongoDB<br><br>Artificial Intelligence & Machine Learning — applied AI, fine-tuning, and integrations<br><br>Startup Ecosystem — scaling ideas into sustainable, impactful solutions<br><br>Always curious. Always building. At Exsolvia, I aim to turn problems that others overlook into opportunities for innovation and meaningful change.
 
 
