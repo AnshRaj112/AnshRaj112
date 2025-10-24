@@ -106,6 +106,16 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 </p>
 
 ---
+# 🪩 Holopins
+
+<p align="center">
+  <a href="https://holopin.io/@anshraj112">
+    <img src="https://holopin.me/anshraj112" alt="An image of @anshraj112's Holopin badges" />
+  </a>
+</p>
+
+
+---
 
 # ✍️ Random Dev Quote
 <p align="center">
