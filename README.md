@@ -117,10 +117,20 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ---
 
+# 📈 My Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshRaj112&bg_color=020403&color=ff4d6d&line=800020&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
 # ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
+
+
 
         
 <!--
