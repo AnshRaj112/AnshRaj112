@@ -132,7 +132,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ---
 
-#🔥 Live Contribution Graph
+# 🔥 Live Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/output/pacman-contribution-graph-dark.svg">
@@ -141,6 +141,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 </picture>
 
 ---
+
 ## Something is cooking
 
 
