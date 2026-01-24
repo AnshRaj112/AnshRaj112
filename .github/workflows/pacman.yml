@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
   push:
     branches:
@@ -16,11 +16,33 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1️⃣ Checkout repo (required for SVG mutation)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Generate random seed
+      - name: Generate random seed
+        run: echo "PACMAN_SEED=$RANDOM" >> $GITHUB_ENV
+
+      # 3️⃣ Generate Pacman contribution graph
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
+        env:
+          PACMAN_SEED: ${{ env.PACMAN_SEED }}
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # 4️⃣ FORCE randomness by mutating SVG paths
+      - name: Randomize pacman SVG path
+        run: |
+          for file in dist/*.svg; do
+            OFFSET_X=$((RANDOM % 25))
+            OFFSET_Y=$((RANDOM % 25))
+            ROTATE=$((RANDOM % 360))
+            sed -i "s/transform=\"/transform=\"translate(${OFFSET_X},${OFFSET_Y}) rotate(${ROTATE}) /g" "$file"
+          done
+
+      # 5️⃣ Push to output branch
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
