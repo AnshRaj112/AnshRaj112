@@ -135,9 +135,9 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 # 🔥 Live Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/output/pacman-contribution-graph.svg">
-  <img alt="Pacman graph" src="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/main/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/main/dist/pacman-contribution-graph.svg">
+  <img alt="Pacman graph" src="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/main/dist/pacman-contribution-graph.svg">
 </picture>
 
 ---
