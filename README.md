@@ -18,7 +18,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 🌍 Explore more:  
 - [Exsolvia](https://exsolvia.com)  
 - [Kampyn](https://kampyn.com)
-- [Salvioris}(https://salvioris.com)
+- [Salvioris](https://salvioris.com)
 
 ---
 
@@ -39,6 +39,9 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
   </a>
   <a href="https://kampyn.com">
     <img src="https://img.shields.io/badge/Kampyn-4ea199?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+   <a href="https://salvioris.com">
+    <img src="https://img.shields.io/badge/Salvioris-1d2935?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   </a>
 </p>
 
