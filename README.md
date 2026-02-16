@@ -13,6 +13,8 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 💡 Our flagship product is **KAMPYN** — a one-click solution for campus-related issues. Think of it as *campus hospitality*, making student life smoother, simpler, and more connected.  
 
+💡 Our another flagship product is **SALVIORIS** — a calm and comforting space where users can vent which they cannot do infront of others and a journaling section where they can talk about their day to day life and can talk about their future and what achievements they want to do.  
+
 ✨ And this is just the beginning — **many more products are on the way.**
 
 🌍 Explore more:  
