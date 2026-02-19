@@ -96,13 +96,18 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshRaj112&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AnshRaj112&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=AnshRaj112&theme=dark&hide_border=false" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&theme=dark&hide_border=false&layout=compact" height="160px"/>
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=AnshRaj112&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="AnshRaj112" /></picture></a>
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AnshRaj112&hide_title=false&layout=compact&theme=dark&count_private=true" /></picture></a>
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&theme=dark&hide_border=false&layout=compact" height="160px"/>
+</p> -->
 
 ---
 
@@ -150,10 +155,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ## Something is cooking!!
 
-<p align="center">
-  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=AnshRaj112&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="AnshRaj112" /></picture></a>
-  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AnshRaj112&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
+
         
 <!--
 # 🚀 Featured Projects
