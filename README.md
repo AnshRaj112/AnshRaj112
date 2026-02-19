@@ -150,9 +150,10 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ## Something is cooking!!
 
-[![committers.top badge](https://user-badge.committers.top/india_private/AnshRaj112.svg)](https://user-badge.committers.top/india_private/AnshRaj112)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnshRaj112)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=AnshRaj112&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="AnshRaj112" /></picture></a>
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AnshRaj112&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
         
 <!--
 # 🚀 Featured Projects
