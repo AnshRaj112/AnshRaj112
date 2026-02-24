@@ -153,7 +153,6 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ---
 
-## Something is cooking!!
 
 
         
