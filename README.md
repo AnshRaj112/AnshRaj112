@@ -113,7 +113,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshRaj112&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-trophies.vercel.app/?username=AnshRaj112&theme=dark&background=0d1117&margin-w=15&margin-h=15"/>
 </p>
 
 ---
