@@ -22,6 +22,9 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 - [Kampyn](https://kampyn.com)
 - [Salvioris](https://salvioris.com)
 
+
+**Connect with me on [anshraj.dev](https://anshraj.dev)**
+
 ---
 
 # 🌐 Connect With Me
