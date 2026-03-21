@@ -109,7 +109,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 </p>
 
 <p align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshRaj112\&theme=dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshRaj112\&theme=radical)
 </p>
 
 
