@@ -108,7 +108,10 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
   <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AnshRaj112&hide_title=false&layout=compact&theme=dark&count_private=true" /></picture></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshRaj112\&theme=radical)
+<p align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshRaj112\&theme=dark)
+</p>
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&theme=dark&hide_border=false&layout=compact" height="160px"/>
