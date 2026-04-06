@@ -164,7 +164,7 @@ I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one 
 
 ## Building few things
 
-### Working on DynamicScaler and VIRL
+### Working on VIRL
 
 Something is coming
         
