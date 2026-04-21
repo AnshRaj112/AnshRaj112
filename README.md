@@ -161,15 +161,6 @@ I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built 
 
 ---
 
-
-## Building few things
-
-### Working on VIRL
-
-Something is coming
-
-Working on:-
-
         
 <!--
 # 🚀 Featured Projects
