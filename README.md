@@ -8,7 +8,7 @@
 # 👨‍💻 About Me
 **Backend Lead — EXSOLVIA | Startup Enthusiast | AI/ML Explorer | Open Source Contributor**
 
-I’m **Ansh Raj**, founder and CEO of **Exsolvia**, a company built around one mission:  
+I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built around one mission:  
 👉 *to identify overlooked problems, and turn them into meaningful opportunities for innovation.*  
 
 💡 Our flagship product is **KAMPYN** — a one-click solution for campus-related issues. Think of it as *campus hospitality*, making student life smoother, simpler, and more connected.  
