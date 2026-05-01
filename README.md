@@ -99,9 +99,7 @@ I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built 
 
 # 📊 GitHub Stats
 <!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AnshRaj112&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/> -->
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=AnshRaj112&theme=dark&hide_border=false" height="160px"/> -->
-<!-- </p> -->
+  <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=AnshRaj112&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/> </div><!-- </p> -->
 
 <p align="center">
   <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=AnshRaj112&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="AnshRaj112" /></picture></a>
