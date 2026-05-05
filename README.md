@@ -111,9 +111,6 @@ I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built 
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshRaj112&theme=dark&hide_border=false&layout=compact" height="160px"/>
-</p>
 
 ---
 
