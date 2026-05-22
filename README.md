@@ -167,3 +167,8 @@ Here are some projects I’m proud of:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshRaj112&repo=sahayak&theme=dark)](https://github.com/AnshRaj112/sahayak)  
 -->
 
+<p align="center">
+  <a href="https://github.com/AnshRaj112">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshRaj112&layout=compact&theme=dark&hide_border=true" alt="AnshRaj112's Top Languages" />
+  </a>
+</p>
