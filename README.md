@@ -102,8 +102,8 @@ I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built 
   <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=AnshRaj112&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/> </div><!-- </p> -->
 
 <p align="center">
-  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=AnshRaj112&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="AnshRaj112" /></picture></a>
-  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AnshRaj112&hide_title=false&layout=compact&theme=dark&count_private=true" /></picture></a>
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://github.com/AnshRaj112/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="AnshRaj112" /></picture></a>
+  <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://github.com/AnshRaj112/github-stats/blob/generated/languages.svg#gh-dark-mode-only" /></picture></a>
 </p>
 
 <p align="center">
@@ -165,9 +165,8 @@ Here are some projects I’m proud of:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshRaj112&repo=kampyn-backend&theme=dark)](https://github.com/AnshRaj112/kampyn-backend.git)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshRaj112&repo=bitebay&theme=dark)](https://github.com/AnshRaj112/bitebay)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshRaj112&repo=sahayak&theme=dark)](https://github.com/AnshRaj112/sahayak)  
--->
+
 
 ![](https://github.com/AnshRaj112/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/AnshRaj112/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/AnshRaj112/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/AnshRaj112/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+--!>
