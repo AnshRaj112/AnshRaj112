@@ -99,6 +99,8 @@ Currently working on EXSOLVIA, VIRL
 
 ---
 
+<!-- Give details about internship --!>
+
 # 📊 GitHub Stats
 <!-- <p align="center"> -->
   <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=AnshRaj112&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/> </div><!-- </p> -->
