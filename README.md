@@ -118,7 +118,7 @@ Currently working on EXSOLVIA, VIRL
 
 ---
 
-# 🏆 GitHub Trophies
+#  🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=AnshRaj112&theme=dark&background=0d1117&margin-w=15&margin-h=15"/>
 </p>
