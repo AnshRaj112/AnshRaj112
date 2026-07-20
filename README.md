@@ -158,6 +158,9 @@ Currently working on EXSOLVIA, VIRL
   <img alt="Pacman graph" src="https://raw.githubusercontent.com/AnshRaj112/AnshRaj112/main/dist/pacman-contribution-graph.svg">
 </picture>
 
+
+[![My GitFut card](https://gitfut.com/AnshRaj112.png)](https://gitfut.com/AnshRaj112)
+
 ---
 
 
