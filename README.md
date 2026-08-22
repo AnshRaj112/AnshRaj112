@@ -98,11 +98,7 @@ Currently working on EXSOLVIA, VIRL
 
 ---
 
-<!-- Give details about internship --!>
-
-# 📊 GitHub Stats
-<!-- <p align="center"> -->
-  <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=AnshRaj112&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/> </div><!-- </p> -->
+  <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=AnshRaj112&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/> </div>
 
 <p align="center">
   <a href="https://github.com/AnshRaj112/beautiful-github-homepage"><picture><img align="" height='150px' src="https://github.com/AnshRaj112/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="AnshRaj112" /></picture></a>
