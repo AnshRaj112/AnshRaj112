@@ -157,9 +157,6 @@ Currently working on EXSOLVIA, VIRL
 [![My GitFut card](https://gitfut.com/AnshRaj112.png)](https://gitfut.com/AnshRaj112)
 
 ---
-
-
-<!--- false code for continuing 
         
 <!--
 # 🚀 Featured Projects
