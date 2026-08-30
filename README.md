@@ -5,7 +5,7 @@
 ---
 
 # 👨‍💻 About Me
-**Associate Member of Technical Staff — Onix Networking | Backend Lead — EXSOLVIA | Startup Enthusiast | AI/ML Explorer | Open Source Contributor**
+**Associate Member of Technical Staff — Onix Networking Corp. | Backend Lead — EXSOLVIA | Startup Enthusiast | AI/ML Explorer | Open Source Contributor**
 
 I’m **Ansh Raj**, Backend & Development Lead of **Exsolvia**, a company built around one mission:  
 👉 *to identify overlooked problems, and turn them into meaningful opportunities for innovation.*  
