@@ -154,6 +154,13 @@ Currently working on EXSOLVIA, VIRL
 </picture>
 
 
+<h2 align="center">My GitHub Koi 🐟</h2>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</p>
+
+
 [![My GitFut card](https://gitfut.com/AnshRaj112.png)](https://gitfut.com/AnshRaj112)
 
 ---
