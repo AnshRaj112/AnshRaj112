@@ -14,7 +14,9 @@ on:
 permissions:
   contents: write
 
-concurrency: koi
+concurrency:
+  group: koi
+  cancel-in-progress: false
 
 jobs:
   koi:
@@ -22,6 +24,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Koi
         uses: yalongwastaken/git-koi@v1
@@ -44,4 +48,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git commit --quiet -m "Update GitHub Koi"
-          git push
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
